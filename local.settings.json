@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "OPENAI_API_KEY": "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"
+  }
+}
